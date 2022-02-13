@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+.line{
+    width:150px;
+    height:7px;
+    background-color:black;
+    margin:8px auto;
+}
+#welcome{
+    background-color: cyan;
+    border:5px  solid black;
+    margin:0px auto;
+}
+h1{
+    font-size:50px;
+}
+p{
+    font-size:25px;
+}
+img{
+    width:700px;
+}
+#img{
+    background-color:red;
+    color: rgb(253, 253, 253);
+    border:5px solid black;
+}
